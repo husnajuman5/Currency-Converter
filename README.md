@@ -30,7 +30,7 @@ script.js
 ## Preview
 
 ## Homepage
-![Homepage](assets/screenshots/preview-home.png)
+[![Homepage](assets/screenshots/preview-home.png)](https://github.com/husnajuman5/Currency-Converter/commit/8e95b8562bb8f7d1946ef9473315f658adf70ff2)
 
 ### Conversion Result
 ![Conversion](assets/screenshots/preview-convert.png)
