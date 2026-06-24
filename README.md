@@ -30,10 +30,10 @@ script.js
 ## Preview
 
 ### Homepage
-![Homepage](assets/screenshots/preview-home.png)
+![Homepage](assets/screenshots/homepage.png)
 
 ### Conversion Result
-![Conversion](assets/screenshots/preview-convert.png)
+![Conversion](assets/screenshots/conversion.png)
 
 ### Mobile View
-![Mobile](assets/screenshots/preview-mobile.png)
+![Mobile](assets/screenshots/mobile.png)
