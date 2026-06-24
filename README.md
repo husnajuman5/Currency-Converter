@@ -29,11 +29,11 @@ script.js
 - Graph analytics
 ## Preview
 
-### Homepage
-![Homepage](Screenshot%202026-06-24%20105937.png)
+## Homepage
+![Homepage](assets/screenshots/preview-home.png)
 
 ### Conversion Result
-![Conversion](Screenshot%202026-06-24%20105952.png)
+![Conversion](assets/screenshots/preview-convert.png)
 
 ### Mobile View
-![Mobile](Screenshot%202026-06-24%20110006.png)
+![Mobile](assets/screenshots/preview-mobile.png)
