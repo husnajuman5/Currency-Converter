@@ -27,3 +27,13 @@ script.js
 - Dark mode
 - Currency history
 - Graph analytics
+## Preview
+
+### Homepage
+![Homepage](Screenshot%202026-06-24%20105937.png)
+
+### Conversion Result
+![Conversion](Screenshot%202026-06-24%20105952.png)
+
+### Mobile View
+![Mobile](Screenshot%202026-06-24%20110006.png)
